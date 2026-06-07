@@ -31,6 +31,7 @@ pip install -r requirements.txt
 python app.py
 
 
+
 ## Output
 
 ### Original Text
@@ -41,6 +42,9 @@ python app.py
 
 ###Similarity score
 ![Similarity score](screenshot/output3.jpg)
+=======
+```
+
 
 ## Usage
 
