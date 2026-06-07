@@ -30,20 +30,20 @@ This project is a Flask-based AI Text Summarization application that generates c
 pip install -r requirements.txt
 python app.py
 
-
-
 ## Output
 
 ### Original Text
-![Original Text](screenshots/output1.jpg)
+
+![Original Text](screenshots/output.jpg)
 
 ### Generated Summary
+
 ![Generated Summary](screenshots/output2.jpg)
 
-###Similarity score
-![Similarity score](screenshot/output3.jpg)
-=======
-```
+### Similarity Score
+
+![Similarity Score](screenshots/output3.jpg)
+
 
 
 ## Usage
