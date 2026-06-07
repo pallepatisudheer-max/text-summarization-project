@@ -29,6 +29,7 @@ This project is a Flask-based AI Text Summarization application that generates c
 ```bash
 pip install -r requirements.txt
 python app.py
+```
 
 ## Output
 
